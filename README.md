@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lloydieG1
-- 👀 I’m interested in game design, graphic design, machine learning
-- 🌱 I’m currently learning java and C#
+- 👀 I’m interested in game design, graphic design, gamification
+- 🌱 I’m currently javascript and css
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me lloydieG1@Gmail.com
 
