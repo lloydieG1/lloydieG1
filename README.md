@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lloydieG1
 - 👀 I’m interested in game design, graphic design, gamification
 - 🌱 I’m currently learning javascript and css
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on game jams
 - 📫 How to reach me lloydieG1@Gmail.com
 
 <!---
