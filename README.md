@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @lloydieG1
+- 👋 Hi, I’m @lloydieG1 and im a CS grad with fullstack skills
 - 👀 I’m interested in game design, graphic design, gamification
-- 🌱 I’m currently learning javascript and c++
+- 🌱 I’m currently improving my frontend skills and learning godot
 - 💞️ I’m looking to collaborate on game jams
 - 📫 How to reach me lloydieG1@Gmail.com
 
