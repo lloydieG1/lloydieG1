@@ -2,7 +2,7 @@
 - 👀 I’m interested in game design, graphic design, gamification
 - 🌱 I’m currently improving my frontend skills and learning godot
 - 💞️ I’m looking to collaborate on game jams
-- 📫 How to reach me lloydieG1@Gmail.com
+- 📫 How to reach me dev@lloydgarrett.co.uk
 
 <!---
 lloydieG1/lloydieG1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
