@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @lloydieG1 and im a CS grad with fullstack skills
-- 👀 I’m interested in game design, graphic design, gamification
-- 🌱 I’m currently improving my frontend skills and learning godot
-- 💞️ I’m looking to collaborate on game jams
+- 👋 Hi, I’m @lloydieG1 and im a fullstack dev
+- 👀 I’m interested in human-centered design, gamification and the Laravel ecosystem
 - 📫 How to reach me dev@lloydgarrett.co.uk
 
 <!---
